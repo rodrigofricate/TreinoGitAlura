@@ -2,6 +2,7 @@
 
 > status do projeto: em desenvolvimento
 
+Para rodar o arquivo utile:
 ```
-Teste
+Node.js
 ```
